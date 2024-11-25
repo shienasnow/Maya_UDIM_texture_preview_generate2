@@ -1,0 +1,2 @@
+# Maya_UDIM_texture_preview_generate2
+Maya_UDIM_texture_preview_generate2
